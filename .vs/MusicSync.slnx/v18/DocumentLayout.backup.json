@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proyectos_programaci\u00F3n\\MusicSync\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E555E87-36A6-965B-B5A2-AA1FEC478C9C}|src\\MusicSync.Cli\\MusicSync.Cli.csproj|c:\\proyectos_programaci\u00F3n\\musicsync\\src\\musicsync.cli\\musicsync.cli.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5E555E87-36A6-965B-B5A2-AA1FEC478C9C}|src\\MusicSync.Cli\\MusicSync.Cli.csproj|solutionrelative:src\\musicsync.cli\\musicsync.cli.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591F36CC-5A6D-23EE-0BA0-1090BC49148B}|src\\MusicSync.Infrastructure\\MusicSync.Infrastructure.csproj|c:\\proyectos_programaci\u00F3n\\musicsync\\src\\musicsync.infrastructure\\musicsync.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{591F36CC-5A6D-23EE-0BA0-1090BC49148B}|src\\MusicSync.Infrastructure\\MusicSync.Infrastructure.csproj|solutionrelative:src\\musicsync.infrastructure\\musicsync.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{7cc9e714-2774-4fc6-8631-a07eee703286}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MusicSync.Cli.csproj",
+              "DocumentMoniker": "C:\\Proyectos_programaci\u00F3n\\MusicSync\\src\\MusicSync.Cli\\MusicSync.Cli.csproj",
+              "RelativeDocumentMoniker": "src\\MusicSync.Cli\\MusicSync.Cli.csproj",
+              "ToolTip": "C:\\Proyectos_programaci\u00F3n\\MusicSync\\src\\MusicSync.Cli\\MusicSync.Cli.csproj",
+              "RelativeToolTip": "src\\MusicSync.Cli\\MusicSync.Cli.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-08T06:20:25.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MusicSync.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Proyectos_programaci\u00F3n\\MusicSync\\src\\MusicSync.Infrastructure\\MusicSync.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\MusicSync.Infrastructure\\MusicSync.Infrastructure.csproj",
+              "ToolTip": "C:\\Proyectos_programaci\u00F3n\\MusicSync\\src\\MusicSync.Infrastructure\\MusicSync.Infrastructure.csproj",
+              "RelativeToolTip": "src\\MusicSync.Infrastructure\\MusicSync.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-08T06:19:29.752Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

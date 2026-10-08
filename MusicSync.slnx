@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MusicSync.Cli/MusicSync.Cli.csproj" />
+    <Project Path="src/MusicSync.Core/MusicSync.Core.csproj" />
+    <Project Path="src/MusicSync.Infrastructure/MusicSync.Infrastructure.csproj" />
+  </Folder>
+</Solution>

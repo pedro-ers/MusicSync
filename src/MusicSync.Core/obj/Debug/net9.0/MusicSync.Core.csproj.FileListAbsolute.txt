@@ -1,0 +1,13 @@
+C:\Proyectos_programación\MusicSync\src\MusicSync.Core\bin\Debug\net9.0\MusicSync.Core.deps.json
+C:\Proyectos_programación\MusicSync\src\MusicSync.Core\bin\Debug\net9.0\MusicSync.Core.dll
+C:\Proyectos_programación\MusicSync\src\MusicSync.Core\bin\Debug\net9.0\MusicSync.Core.pdb
+C:\Proyectos_programación\MusicSync\src\MusicSync.Core\obj\Debug\net9.0\MusicSync.Core.csproj.AssemblyReference.cache
+C:\Proyectos_programación\MusicSync\src\MusicSync.Core\obj\Debug\net9.0\MusicSync.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos_programación\MusicSync\src\MusicSync.Core\obj\Debug\net9.0\MusicSync.Core.AssemblyInfoInputs.cache
+C:\Proyectos_programación\MusicSync\src\MusicSync.Core\obj\Debug\net9.0\MusicSync.Core.AssemblyInfo.cs
+C:\Proyectos_programación\MusicSync\src\MusicSync.Core\obj\Debug\net9.0\MusicSync.Core.csproj.CoreCompileInputs.cache
+C:\Proyectos_programación\MusicSync\src\MusicSync.Core\obj\Debug\net9.0\MusicSync.Core.sourcelink.json
+C:\Proyectos_programación\MusicSync\src\MusicSync.Core\obj\Debug\net9.0\MusicSync.Core.dll
+C:\Proyectos_programación\MusicSync\src\MusicSync.Core\obj\Debug\net9.0\refint\MusicSync.Core.dll
+C:\Proyectos_programación\MusicSync\src\MusicSync.Core\obj\Debug\net9.0\MusicSync.Core.pdb
+C:\Proyectos_programación\MusicSync\src\MusicSync.Core\obj\Debug\net9.0\ref\MusicSync.Core.dll
