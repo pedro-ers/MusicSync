@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MusicSync.Cli")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd7addb149705581b79ab2bb3e25546af104484a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1b921a406c80807179651796ce34883aa26e146")]
 [assembly: System.Reflection.AssemblyProductAttribute("MusicSync.Cli")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MusicSync.Cli")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

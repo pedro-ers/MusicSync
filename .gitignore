@@ -1,0 +1,8 @@
+bin/
+obj/
+.vs/
+data/
+secrets/
+reports/
+*.db
+__pycache__/

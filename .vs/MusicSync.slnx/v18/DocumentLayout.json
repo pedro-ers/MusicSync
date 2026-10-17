@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Proyectos_programaci\u00F3n\\MusicSync\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E555E87-36A6-965B-B5A2-AA1FEC478C9C}|src\\MusicSync.Cli\\MusicSync.Cli.csproj|c:\\proyectos_programaci\u00F3n\\musicsync\\src\\musicsync.cli\\musicsync.cli.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5E555E87-36A6-965B-B5A2-AA1FEC478C9C}|src\\MusicSync.Cli\\MusicSync.Cli.csproj|solutionrelative:src\\musicsync.cli\\musicsync.cli.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Proyectos_programaci\u00F3n\\MusicSync\\bridge\\requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bridge\\requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{591F36CC-5A6D-23EE-0BA0-1090BC49148B}|src\\MusicSync.Infrastructure\\MusicSync.Infrastructure.csproj|c:\\proyectos_programaci\u00F3n\\musicsync\\src\\musicsync.infrastructure\\musicsync.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{591F36CC-5A6D-23EE-0BA0-1090BC49148B}|src\\MusicSync.Infrastructure\\MusicSync.Infrastructure.csproj|solutionrelative:src\\musicsync.infrastructure\\musicsync.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Proyectos_programaci\u00F3n\\MusicSync\\bridge\\ytm_bridge.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bridge\\ytm_bridge.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -63,27 +63,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MusicSync.Cli.csproj",
-              "DocumentMoniker": "C:\\Proyectos_programaci\u00F3n\\MusicSync\\src\\MusicSync.Cli\\MusicSync.Cli.csproj",
-              "RelativeDocumentMoniker": "src\\MusicSync.Cli\\MusicSync.Cli.csproj",
-              "ToolTip": "C:\\Proyectos_programaci\u00F3n\\MusicSync\\src\\MusicSync.Cli\\MusicSync.Cli.csproj",
-              "RelativeToolTip": "src\\MusicSync.Cli\\MusicSync.Cli.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-10-08T06:20:25.237Z",
+              "Title": "requirements.txt",
+              "DocumentMoniker": "C:\\Proyectos_programaci\u00F3n\\MusicSync\\bridge\\requirements.txt",
+              "RelativeDocumentMoniker": "bridge\\requirements.txt",
+              "ToolTip": "C:\\Proyectos_programaci\u00F3n\\MusicSync\\bridge\\requirements.txt",
+              "RelativeToolTip": "bridge\\requirements.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-10-16T15:20:12.655Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MusicSync.Infrastructure.csproj",
-              "DocumentMoniker": "C:\\Proyectos_programaci\u00F3n\\MusicSync\\src\\MusicSync.Infrastructure\\MusicSync.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "src\\MusicSync.Infrastructure\\MusicSync.Infrastructure.csproj",
-              "ToolTip": "C:\\Proyectos_programaci\u00F3n\\MusicSync\\src\\MusicSync.Infrastructure\\MusicSync.Infrastructure.csproj",
-              "RelativeToolTip": "src\\MusicSync.Infrastructure\\MusicSync.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-10-08T06:19:29.752Z",
+              "Title": "ytm_bridge.py",
+              "DocumentMoniker": "C:\\Proyectos_programaci\u00F3n\\MusicSync\\bridge\\ytm_bridge.py",
+              "RelativeDocumentMoniker": "bridge\\ytm_bridge.py",
+              "ToolTip": "C:\\Proyectos_programaci\u00F3n\\MusicSync\\bridge\\ytm_bridge.py",
+              "RelativeToolTip": "bridge\\ytm_bridge.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-10-16T15:10:48.032Z",
               "EditorCaption": ""
             }
           ]
